@@ -12,7 +12,9 @@
 12- git tag v0.1
 13- git push -u origin master
 
-NOMBRES  		GITHUB
-Jesus Rey 		https://github.com/jrmar2000
-Carlos Fernandez	https://github.com/blogart
-Pablo Garcia		https://github.com/CarlosFdezJim
+
+|        NOMBRE          |                     GITHUB                        |
+|------------------------|---------------------------------------------------|
+| Nombre del compañero 1 | [enlace a github 1](http://github.com/crisrex) |
+| Nombre del compañero 2 | [enlace a github 1](http://github.com/crisrex) |
+| Nombre del compañero 3 | [enlace a github 3](http://github.com/crixrex) |
